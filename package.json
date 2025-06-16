@@ -1,0 +1,25 @@
+{
+  "name": "nodeimguploadresize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stizz1e/NodeImgUploadResize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stizz1e/NodeImgUploadResize/issues"
+  },
+  "homepage": "https://github.com/stizz1e/NodeImgUploadResize#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.1",
+    "sharp": "^0.34.2"
+  }
+}
